@@ -44,7 +44,6 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 ## 4. Vision Studio
 https://portal.vision.cognitive.azure.com
 
-
 <br><br>
 18-Apr-2023
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
