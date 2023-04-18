@@ -1,5 +1,11 @@
 # Azure Computer Vision in a day workshop
 
+> In this technical workshop, you will receive a thorough introduction to **Azure Computer Vision** and **Azure Vision Studio**. You will be taught how to utilize the new capabilities of Azure Computer Vision 4 to analyze images, including its **multimodal features (Florence)**.
+Moreover, you will be able to investigate pre-existing solution accelerators and best practices for prototyping and deploying end-to-end use cases. Finally, the workshop will conclude with a Q&A session and a wrap-up.
+
+Note: Some of these new features are currently in public preview.<br>
+https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
+
 ## 1. Notebooks
 ### Azure Computer Vision setup
 <a href="00 Setup Azure Computer Vision.ipynb">00 Setup Azure Computer Vision<a>
