@@ -10,7 +10,7 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
 ## 1. Workshop agenda
 ### 🌅 Morning (9:00 – 12:00)<br>
-Focus: Introduction and images processing with Azure Computer Vision<br><br>
+**Focus: Introduction and images processing with Azure Computer Vision<br><br>**
 📣 Azure Computer Vision presentation (30 mins)<br>
 📣 Azure Azure Vision Studio (30 mins)<br>
 📣 Intro Workshop (15 mins)<br>
@@ -23,7 +23,7 @@ Focus: Introduction and images processing with Azure Computer Vision<br><br>
 🧑🏼‍💻 Image retrieval with Azure Computer Vision (images et text vectors embeddings)  (15 mins)<br>
 
 ### 🌆 Afternoon (14:00 – 17:00)<br>
-Focus: Visual search usecase with Azure Computer Vision<br>
+**Focus: Visual search usecase with Azure Computer Vision<br>**
 <br>
 📣 Recap (15 mins)<br>
 🧑🏼‍💻 Fashion visual search - Images analysis (45 mins)<br>
