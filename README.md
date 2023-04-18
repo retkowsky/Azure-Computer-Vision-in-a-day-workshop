@@ -79,7 +79,7 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 ## 5. Vision Studio
 https://portal.vision.cognitive.azure.com
 
-## 6. Demos videos
+## 6. Azure Computer Vision 4 demos videos
 <a href="https://www.youtube.com/playlist?list=PLy4MOYaxz3vMAA_Ie5wRUNiCZ9Sif74ex"> Azure Computer Vision 4 (Florence) demos videos</a>
 
 
