@@ -38,6 +38,13 @@ Note: You need to enter your Azure Computer vision endpoint and key in these two
 ## 2. Azure Computer Vision presentation
 <a href="Azure Computer Vision 4.pdf">Azure Computer Vision PowePoint presentation<a>
 
+## 3. Documentation
+https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
+
+## 4. Vision Studio
+https://portal.vision.cognitive.azure.com
+
+
 <br><br>
 18-Apr-2023
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
