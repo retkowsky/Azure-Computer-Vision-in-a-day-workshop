@@ -38,6 +38,6 @@ Note: You need to enter your Azure Computer vision endpoint and key in these two
 ## 2. Azure Computer Vision presentation
 <a href="Azure Computer Vision 4.pdf">Azure Computer Vision PowePoint presentation<a>
 
-
-18-Apri-2023
+<br><br>
+18-Apr-2023
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
