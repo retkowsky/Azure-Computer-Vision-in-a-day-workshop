@@ -16,7 +16,7 @@ Focus: Introduction and images processing with Azure Computer Vision<br><br>
 📣 Intro Workshop (15 mins)<br>
 🧑🏼‍💻 Azure Computer Vision setup (15 mins)<br>
 🧑🏼‍💻 Image Analysis using Azure Computer Vision  (15 mins)<br>
-Pause (20 min)<br>
+:coffee:Pause (20 min)<br>
 🧑🏼‍💻 Dense captioning of images  (15 mins)<br>
 🧑🏼‍💻 Background removal with Azure Computer Vision  (15 mins)<br>
 🧑🏼‍💻 Gradio webapp example using the background removal from Azure Computer Vision  (10 mins)<br>
@@ -30,7 +30,7 @@ Focus: Visual search usecase with Azure Computer Vision<br>
 🧑🏼‍💻 Fashion visual search - Images embeddings (60 mins)<br>
 🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 mins)<br>
 🧑🏼‍💻 Fashion visual search - Images Clustering (15 mins)<br>
-QnA session (30min)<br>
+:question:QnA session (30min)<br>
 <br>
 Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 
