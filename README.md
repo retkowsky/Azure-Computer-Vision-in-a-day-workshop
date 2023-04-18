@@ -8,6 +8,33 @@ Moreover, you will be able to investigate pre-existing solution accelerators and
 Note: Some of these new features are currently in ***public preview.***<br><br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
+## Workshop agenda
+### 🌅 Morning (9:00 – 12:00)<br>
+Focus: Introduction and images processing with Azure Computer Vision<br><br>
+📣 Azure Computer Vision presentation (30 mins)<br>
+📣 Azure Azure Vision Studio (30 mins)<br>
+📣 Intro Workshop (15 mins)<br>
+🧑🏼‍💻 Azure Computer Vision setup (15 mins)<br>
+🧑🏼‍💻 Image Analysis using Azure Computer Vision  (15 mins)<br>
+Pause (20 min)<br>
+🧑🏼‍💻 Dense captioning of images  (15 mins)<br>
+🧑🏼‍💻 Background removal with Azure Computer Vision  (15 mins)<br>
+🧑🏼‍💻 Gradio webapp example using the background removal from Azure Computer Vision  (10 mins)<br>
+🧑🏼‍💻 Image retrieval with Azure Computer Vision (images et text vectors embeddings)  (15 mins)<br>
+
+### 🌆 Afternoon (14:00 – 17:00)<br>
+Focus: Visual search usecase with Azure Computer Vision<br>
+<br>
+📣 Recap (15 mins)<br>
+🧑🏼‍💻 Fashion visual search - Images analysis (45 mins)<br>
+🧑🏼‍💻 Fashion visual search - Images embeddings (60 mins)<br>
+🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 mins)<br>
+🧑🏼‍💻 Fashion visual search - Images Clustering (15 mins)<br>
+QnA session (30min)<br>
+<br>
+Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
+
+
 ## 1. Notebooks
 ### Azure Computer Vision setup
 <a href="00 Setup Azure Computer Vision.ipynb">00 Setup Azure Computer Vision</a>
