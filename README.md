@@ -8,7 +8,7 @@ Moreover, you will be able to investigate pre-existing solution accelerators and
 Note: Some of these new features are currently in ***public preview.***<br><br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
-## Workshop agenda
+## 1. Workshop agenda
 ### 🌅 Morning (9:00 – 12:00)<br>
 Focus: Introduction and images processing with Azure Computer Vision<br><br>
 📣 Azure Computer Vision presentation (30 mins)<br>
@@ -35,7 +35,7 @@ QnA session (30min)<br>
 Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 
 
-## 1. Notebooks
+## 2. Notebooks
 ### Azure Computer Vision setup
 <a href="00 Setup Azure Computer Vision.ipynb">00 Setup Azure Computer Vision</a>
 
@@ -70,16 +70,16 @@ Note: You need to enter your Azure Computer vision endpoint and key in these two
 <a href=azure.env>azure.env</a>
 <a href=visualsearch.env>visualsearch.env</a>
 
-## 2. Azure Computer Vision presentation
+## 3. Azure Computer Vision presentation
 <a href="Azure Computer Vision 4.pdf">Azure Computer Vision PowePoint presentation</a>
 
-## 3. Documentation
+## 4. Documentation
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
-## 4. Vision Studio
+## 5. Vision Studio
 https://portal.vision.cognitive.azure.com
 
-## 5. Demos videos
+## 6. Demos videos
 <a href="https://www.youtube.com/playlist?list=PLy4MOYaxz3vMAA_Ie5wRUNiCZ9Sif74ex"> Azure Computer Vision 4 (Florence) demos videos</a>
 
 
