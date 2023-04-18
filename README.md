@@ -5,52 +5,56 @@
 > In this technical workshop, you will receive a thorough introduction to **Azure Computer Vision** and **Azure Vision Studio**. You will be taught how to utilize the new capabilities of Azure Computer Vision 4 to analyze images, including its **multimodal features (Florence)**.
 Moreover, you will be able to investigate pre-existing solution accelerators and best practices for prototyping and deploying end-to-end use cases. Finally, the workshop will conclude with a Q&A session and a wrap-up.
 
-Note: Some of these new features are currently in public preview.<br>
+Note: Some of these new features are currently in public preview.<br><br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
 ## 1. Notebooks
 ### Azure Computer Vision setup
-<a href="00 Setup Azure Computer Vision.ipynb">00 Setup Azure Computer Vision<a>
+<a href="00 Setup Azure Computer Vision.ipynb">00 Setup Azure Computer Vision</a>
 
 ### Image Analysis using Azure Computer Vision
-<a href="01 Image Analysis.ipynb">01 Image Analysis<a>
+<a href="01 Image Analysis.ipynb">01 Image Analysis</a>
 
 ### Dense captioning of images
-<a href="02 Captioning and dense captioning.ipynb">02 Captioning and dense captioning<a>
+<a href="02 Captioning and dense captioning.ipynb">02 Captioning and dense captioning</a>
 
 ### Background removal with Azure Computer Vision
-<a href="03 Background removal.ipynb">03 Background removal<a>
+<a href="03 Background removal.ipynb">03 Background removal</a>
 
 ### Gradio webapp example using the background removal from Azure Computer Vision
-<a href="04 Gradio app for background removal.ipynb">04 Gradio app for background removal<a>
+<a href="04 Gradio app for background removal.ipynb">04 Gradio app for background removal</a>
 
 ### Image retrieval with Azure Computer Vision (images et text vectors embeddings)
-<a href="05 Image retrieval.ipynb">05 Image retrieval<a>
+<a href="05 Image retrieval.ipynb">05 Image retrieval</a>
 
 ### Visual Search demo based on a fashion images datasets using Azure Computer Vision
-<a href="06 Fashion visual search - Images analysis.ipynb">06 Fashion visual search - Images analysis<a>
+<a href="06 Fashion visual search - Images analysis.ipynb">06 Fashion visual search - Images analysis</a>
 
 ### Visual Search demo (images vectors embeddings)
-<a href="07 Fashion visual search - Images embeddings.ipynb">07 Fashion visual search - Images embeddings<a>
+<a href="07 Fashion visual search - Images embeddings.ipynb">07 Fashion visual search - Images embeddings</a>
 
 ### Visual Search demo (Search using an image reference or a text)
-<a href="08 Fashion visual search - Search using an image or a prompt.ipynb">08 Fashion visual search - Search using an image or a prompt<a>
+<a href="08 Fashion visual search - Search using an image or a prompt.ipynb">08 Fashion visual search - Search using an image or a prompt</a>
 
 ### Visual Search demo (images clustering using images vectors embeddings)
-<a href="09 Fashion visual search - Images Clustering.ipynb">09 Fashion visual search - Images Clustering<a>
+<a href="09 Fashion visual search - Images Clustering.ipynb">09 Fashion visual search - Images Clustering</a>
 
 Note: You need to enter your Azure Computer vision endpoint and key in these two .env files:
-<a href=azure.env>azure.env<a>
-<a href=visualsearch.env>visualsearch.env<a>
+<a href=azure.env>azure.env</a>
+<a href=visualsearch.env>visualsearch.env</a>
 
 ## 2. Azure Computer Vision presentation
-<a href="Azure Computer Vision 4.pdf">Azure Computer Vision PowePoint presentation<a>
+<a href="Azure Computer Vision 4.pdf">Azure Computer Vision PowePoint presentation</a>
 
 ## 3. Documentation
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
 ## 4. Vision Studio
 https://portal.vision.cognitive.azure.com
+
+## 5. Demos videos
+<a href="https://www.youtube.com/playlist?list=PLy4MOYaxz3vMAA_Ie5wRUNiCZ9Sif74ex"> Azure Computer Vision 4 (Florence) demos videos</a>
+
 
 <br><br>
 18-Apr-2023
