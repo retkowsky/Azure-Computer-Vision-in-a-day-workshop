@@ -49,7 +49,7 @@ Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 <a href="03 Background removal.ipynb">03 Background removal</a>
 
 ### Gradio webapp example using the background removal from Azure Computer Vision
-<a href="04 Gradio app for background removal.ipynb">04 Gradio app for background removal</a>
+<a href="04%20%20Gradio%20app%20for%20background%20removal.ipynb">04 Gradio app for background removal</a>
 
 ### Image retrieval with Azure Computer Vision (images et text vectors embeddings)
 <a href="05 Image retrieval.ipynb">05 Image retrieval</a>
