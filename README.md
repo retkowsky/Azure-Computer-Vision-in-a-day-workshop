@@ -85,5 +85,5 @@ https://portal.vision.cognitive.azure.com
 
 
 <br><br>
-18-Apr-2023
+19-Apr-2023
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
