@@ -12,25 +12,25 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 ## 1. Workshop agenda
 ### 🌅 Morning (9:00 – 12:00)<br>
 **Focus: Introduction and images processing with Azure Computer Vision<br><br>**
-📣 Azure Computer Vision presentation (30 mins)<br>
-📣 Azure Azure Vision Studio (30 mins)<br>
-📣 Intro Workshop (15 mins)<br>
-🧑🏼‍💻 Azure Computer Vision setup (15 mins)<br>
-🧑🏼‍💻 Image Analysis using Azure Computer Vision  (15 mins)<br>
+📣 Azure Computer Vision presentation (30 min)<br>
+📣 Azure Azure Vision Studio (30 min)<br>
+📣 Intro Workshop (15 min)<br>
+🧑🏼‍💻 Azure Computer Vision setup (15 min)<br>
+🧑🏼‍💻 Image Analysis using Azure Computer Vision  (15 min)<br>
 :coffee:Pause (20 min)<br>
-🧑🏼‍💻 Dense captioning of images  (15 mins)<br>
-🧑🏼‍💻 Background removal with Azure Computer Vision  (15 mins)<br>
-🧑🏼‍💻 Gradio webapp example using the background removal from Azure Computer Vision  (10 mins)<br>
-🧑🏼‍💻 Image retrieval with Azure Computer Vision (images et text vectors embeddings)  (15 mins)<br>
+🧑🏼‍💻 Dense captioning of images  (15 min)<br>
+🧑🏼‍💻 Background removal with Azure Computer Vision  (15 min)<br>
+🧑🏼‍💻 Gradio webapp example using the background removal from Azure Computer Vision  (10 min)<br>
+🧑🏼‍💻 Image retrieval with Azure Computer Vision (images et text vectors embeddings)  (15 min)<br>
 
 ### 🌆 Afternoon (14:00 – 16:00)<br>
 **Focus: Visual search usecase with Azure Computer Vision<br>**
 <br>
-📣 Recap (20 mins)<br>
-🧑🏼‍💻 Fashion visual search - Images analysis (20 mins)<br>
-🧑🏼‍💻 Fashion visual search - Images embeddings (20 mins)<br>
-🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 mins)<br>
-🧑🏼‍💻 Fashion visual search - Images Clustering (15 mins)<br>
+📣 Recap (20 min)<br>
+🧑🏼‍💻 Fashion visual search - Images analysis (20 min)<br>
+🧑🏼‍💻 Fashion visual search - Images embeddings (20 min)<br>
+🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 min)<br>
+🧑🏼‍💻 Fashion visual search - Images Clustering (15 min)<br>
 :question:QnA session (30 min)<br>
 <br>
 Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
