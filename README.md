@@ -23,15 +23,15 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 🧑🏼‍💻 Gradio webapp example using the background removal from Azure Computer Vision  (10 mins)<br>
 🧑🏼‍💻 Image retrieval with Azure Computer Vision (images et text vectors embeddings)  (15 mins)<br>
 
-### 🌆 Afternoon (14:00 – 17:00)<br>
+### 🌆 Afternoon (14:00 – 16:00)<br>
 **Focus: Visual search usecase with Azure Computer Vision<br>**
 <br>
-📣 Recap (15 mins)<br>
-🧑🏼‍💻 Fashion visual search - Images analysis (45 mins)<br>
-🧑🏼‍💻 Fashion visual search - Images embeddings (60 mins)<br>
+📣 Recap (20 mins)<br>
+🧑🏼‍💻 Fashion visual search - Images analysis (20 mins)<br>
+🧑🏼‍💻 Fashion visual search - Images embeddings (20 mins)<br>
 🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 mins)<br>
 🧑🏼‍💻 Fashion visual search - Images Clustering (15 mins)<br>
-:question:QnA session (30min)<br>
+:question:QnA session (30 min)<br>
 <br>
 Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 
