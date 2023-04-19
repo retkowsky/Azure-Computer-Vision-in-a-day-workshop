@@ -31,7 +31,7 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 🧑🏼‍💻 Fashion visual search - Images embeddings (20 min)<br>
 🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 min)<br>
 🧑🏼‍💻 Fashion visual search - Images Clustering (15 min)<br>
-:question:QnA session (30 min)<br>
+:question:Conclusion and QnA session (30 min)<br>
 <br>
 Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 
