@@ -7,7 +7,7 @@
 # Usecase: Visual search using image or text to find similar images
 # Python version: 3.8.5
 #
-# Date: 18 April 2023
+# Date: 2 May 2023
 # Author: Serge Retkowsky | Microsoft | https://github.com/retkowsky
 #
 
@@ -28,8 +28,8 @@ from PIL import Image
 
 # Reading Azure Computer Vision 4 endpoint and key from the env file
 
-load_dotenv("visualsearch.env")
-key = os.getenv('azure_cv_key')
+load_dotenv("azure.env")
+key = os.getenv("azure_cv_key")
 endpoint = os.getenv("azure_cv_endpoint")
 
 
