@@ -68,7 +68,7 @@ Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 <a href="09 Fashion visual search - Images Clustering.ipynb">09 Fashion visual search - Images Clustering</a>
 
 ### Visual Search demo (gradio webapp)
-<a href="10 Fashion visual search - Images Clustering.ipynb">10 Fashion visual search - Gradio App</a>
+<a href="10 Fashion visual search - Gradio App.ipynb">10 Fashion visual search - Gradio App</a>
 
 Note: You need to enter your Azure Computer vision endpoint and key in this .env file:
 <a href=azure.env>azure.env</a>
