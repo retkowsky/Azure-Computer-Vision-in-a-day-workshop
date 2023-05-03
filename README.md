@@ -29,7 +29,7 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 📣 Recap (20 min)<br>
 🧑🏼‍💻 Fashion visual search - Images analysis (20 min)<br>
 🧑🏼‍💻 Fashion visual search - Images embeddings (20 min)<br>
-🧑🏼‍💻 Fashion visual search - Search using an image or a prompt (15 min)<br>
+🧑🏼‍💻 Fashion visual search - Search using an image or a prompt - we will build a webapp as well(15 min)<br>
 🧑🏼‍💻 Fashion visual search - Images Clustering (15 min)<br>
 :question:Conclusion and QnA session (30 min)<br>
 <br>
@@ -67,9 +67,11 @@ Legend: 📣 Presentation, 🧑🏼‍💻 Hands-on lab
 ### Visual Search demo (images clustering using images vectors embeddings)
 <a href="09 Fashion visual search - Images Clustering.ipynb">09 Fashion visual search - Images Clustering</a>
 
-Note: You need to enter your Azure Computer vision endpoint and key in these two .env files:
+### Visual Search demo (gradio webapp)
+<a href="10 Fashion visual search - Images Clustering.ipynb">10 Fashion visual search - Gradio App</a>
+
+Note: You need to enter your Azure Computer vision endpoint and key in this .env file:
 <a href=azure.env>azure.env</a>
-<a href=visualsearch.env>visualsearch.env</a>
 
 ## 3. Azure Computer Vision presentation
 <a href="Azure Computer Vision 4.pdf">Azure Computer Vision PowePoint presentation</a>
