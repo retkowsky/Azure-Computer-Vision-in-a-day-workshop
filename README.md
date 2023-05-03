@@ -2,10 +2,10 @@
 
 <img src="https://github.com/retkowsky/images/blob/master/florence/florence.jpg?raw=true">
 
-> In this technical workshop, you will receive a thorough introduction to **Azure Computer Vision** and **Azure Vision Studio**. You will be taught how to utilize the new capabilities of Azure Computer Vision 4 to analyze images, including its **multimodal features (Florence)**.
+> In this technical workshop, you will receive a thorough introduction to **Azure Computer Vision** and **Azure Vision Studio**. You will be taught how to utilize the `new capabilities of Azure Computer Vision 4` to analyze images, including its **multimodal features (Florence)**.
 Moreover, you will be able to investigate pre-existing solution accelerators and best practices for prototyping and deploying end-to-end use cases. Finally, the workshop will conclude with a Q&A session and a wrap-up.
 
-Note: Some features are currently in preview, and the API may change in the future.
+Note: Some features are currently in`preview` and the API may change in the future.
 
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
